@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+.target {
+    background: dodgerblue;
+    /*height: 100px;*/
+    width: 200px;
+    box-sizing: border-box;  /* щоб не збільшувався блок елементу, а тоді задається padding*/
+    padding: 10px 30px 20px 50px; /* зверху - 10пк, справа - 30пк  знизу - 20пк зліва 40пк*/
+    /*padding: 30px; зі всіх сторін*/
+    /*padding: 10px 30px; /* зверху знизу - 10пікс,  зліва і справа - 30пікс*/
+    /*padding: 10px 30px 20px; /* зверху - 10пікс,  зліва і справа - 30пікс  знизу - 20пікс*/
+    /*padding-left: 5px ;*/
+    /*padding-top: 25px;*/
+    /*padding-bottom: 20px;*/
+    /*padding-right: 10px;*/
+    /*margin: 20px; зовнішній відступ*/
+    /*height: auto;    розтягує по довжині контенту*/
+    /*overflow: auto; робить скрол*/
+    /*overflow: hidden; ховає зайвий текст*/
+    border: 10px solid red; /*товщина рамки, суцільна, червона*/
+    border-radius: 20px;
+
+    margin: 100px auto; /*
+
+}
