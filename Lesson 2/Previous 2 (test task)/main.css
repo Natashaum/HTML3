@@ -1,0 +1,32 @@
+.parameters {
+    height: 500px;
+    width: 200px;
+    background: cornflowerblue;
+    margin: 20px;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+}
+p {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 10px;
+    text-align: justify;
+}
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+    border-radius: 50%;
+}
+.father {
+display: flex;
+    justify-content: space-evenly;
+    background: turquoise;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}

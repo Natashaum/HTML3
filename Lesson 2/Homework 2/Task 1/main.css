@@ -1,0 +1,29 @@
+.target1 {
+    height: 200px;
+    width: 200px;
+    background: orange;
+    border: solid orange;
+    box-shadow: black 20px 20px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.t2 {
+    box-shadow: black 20px 20px 10px;
+
+}
+.t3 {
+    box-shadow: 30px 30px;
+}
+.t4 {
+    box-shadow: lightgrey 30px 30px;
+}
+.t5 {
+    border-radius: 10px;
+    box-shadow: black 20px 20px 50px 20px;
+}
+.t6 {
+    box-shadow: lightgrey 30px 30px;
+    border-radius: 10px;
+}

@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+.block1 {
+    height: 50px;
+    background: brown;
+    border: solid brown 0;
+    display: flex;
+    justify-content: right;
+    margin-bottom: 20px;
+}
+
+#less {
+    box-sizing: border-box;
+    padding: 10px 100px;
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.block2 {
+    height: 100px;
+    background: darkgrey;
+    border: cornflowerblue 0;
+
+}
+
+p {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 30px 30px 20px 60px;
+    font-size: large;
+}
+.block3 {
+    height: 100px;
+    background: cornflowerblue;
+}
+.block4 {
+    height: 400px;
+    width: 400px;
+    background: mediumseagreen;
+}
+.block5 {
+    height: 400px;
+    width: 400px;
+    background: mediumpurple;
+    border-radius: 20px;
+}
